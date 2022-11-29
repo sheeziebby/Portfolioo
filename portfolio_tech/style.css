@@ -10,7 +10,7 @@ body{
 }
 
 .font-primary{
-    color: #00abae;
+    color: #800020;
 }
 
 .title-icon{
@@ -61,7 +61,7 @@ ABOUT
 
 #about .skills{
     font-size: 14px;
-    color: #00abae;
+    color: #800020;
     margin-bottom: 10px;
 }
 #about .email{
@@ -100,6 +100,6 @@ PROJECT
 }
 
 #project .card a{
-    color: #00abae;
+    color: #800020;
 }
     
